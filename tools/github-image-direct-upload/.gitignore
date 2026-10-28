@@ -1,0 +1,5 @@
+.env
+*.local.php
+github_upload_config.php
+uploads/
+
